@@ -1,4 +1,4 @@
 # git-practice
 To practice CI and CD
 By Gaurav Balyan
-changes done in master branch
+changes done in develop branch
